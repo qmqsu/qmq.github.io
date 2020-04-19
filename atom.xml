@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qmqroot.github.io</id>
-    <title>qmqblog</title>
-    <updated>2020-04-19T08:41:32.896Z</updated>
+    <title>Qblog</title>
+    <updated>2020-04-19T08:47:26.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qmqroot.github.io"/>
     <link rel="self" href="https://qmqroot.github.io/atom.xml"/>
-    <subtitle>欢迎访问qmq博客</subtitle>
+    <subtitle>欢迎访问qh博客</subtitle>
     <logo>https://qmqroot.github.io/images/avatar.png</logo>
     <icon>https://qmqroot.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, qmqblog</rights>
+    <rights>All rights reserved 2020, Qblog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://qmqroot.github.io/post/hello-gridea/</id>
