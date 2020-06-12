@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://qmqroot.github.io</id>
-    <title>Qblog</title>
-    <updated>2020-04-19T08:47:26.791Z</updated>
+    <id>http://q2002.cf</id>
+    <title>QUAN</title>
+    <updated>2020-06-12T06:32:05.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://qmqroot.github.io"/>
-    <link rel="self" href="https://qmqroot.github.io/atom.xml"/>
-    <subtitle>欢迎访问qh博客</subtitle>
-    <logo>https://qmqroot.github.io/images/avatar.png</logo>
-    <icon>https://qmqroot.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Qblog</rights>
+    <link rel="alternate" href="http://q2002.cf"/>
+    <link rel="self" href="http://q2002.cf/atom.xml"/>
+    <subtitle>欢迎访问全洪的博客</subtitle>
+    <logo>http://q2002.cf/images/avatar.png</logo>
+    <icon>http://q2002.cf/favicon.ico</icon>
+    <rights>All rights reserved 2020, QUAN</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://qmqroot.github.io/post/hello-gridea/</id>
-        <link href="https://qmqroot.github.io/post/hello-gridea/">
+        <id>http://q2002.cf/post/hello-gridea/</id>
+        <link href="http://q2002.cf/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
